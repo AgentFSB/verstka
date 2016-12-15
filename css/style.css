@@ -1,0 +1,7 @@
+body {
+	front-size: 14px;
+	line-height: 24px;
+	front-famaly: "PT Sans	Narrow", sans-serif;
+	color:#fff;
+	background:#111 url("../img/bg-index.jpg")no-repeat center top;
+}
